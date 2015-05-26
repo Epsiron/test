@@ -2,5 +2,5 @@
 
 int main(void) {
   printf("This is test\n");
-  return 0;
+  return EXIT_SUCCESS;
 }
